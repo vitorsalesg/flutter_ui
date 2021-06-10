@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_uis/screens/chat/chat_screen.dart';
+import 'package:flutter_uis/screens/chat/contact_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   final Map<String, dynamic> pages = {
-    'Chat UI': ChatScreen(),
+    'Chat UI': ContactScreen(),
   };
 
   @override

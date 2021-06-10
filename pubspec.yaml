@@ -14,10 +14,13 @@ dependencies:
 
 dev_dependencies:
   flutter_test:
-    sdk: flutter
-
+    sdk: flutter 
+    
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/images/chat/
 
 
 
