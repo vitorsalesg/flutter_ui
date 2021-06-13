@@ -4,7 +4,7 @@
  </p>
 
 <h4 align="center"> 
-	 🎨 Flutter UI
+	🎨 Flutter UI
 </h4>
 
 <p align="center">
@@ -16,10 +16,9 @@
 
 ## 💻 Sobre o projeto
 
-Flutter UI - É um repositório com diversas UIS (User Interface) desenvolvidas utilizando Flutter.
+Flutter UI - É um repositório com diversas UIS (User Interface) desenvolvidas utilizando Flutter. Este projeto tem como objetivo aprimorar meus conhecimentos na criação na layouts responsivos para dispositivos web/mobile.
 
 ---
-
 
 ## 🎨 Layout
 
