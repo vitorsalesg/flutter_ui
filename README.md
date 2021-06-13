@@ -20,7 +20,8 @@ Flutter UI - É um repositório com diversas UIS (User Interface) desenvolvidas 
 
 ---
 
-## 🎨 Layout
+## 🎨 Layouts
+
 
 ### Mobile
 
